@@ -1,0 +1,78 @@
+C:\Users\Mateusz\Desktop\Zaliczenie\Zaliczenie\bin\Debug\Zaliczenie.exe.config
+C:\Users\Mateusz\Desktop\Zaliczenie\Zaliczenie\bin\Debug\Zaliczenie.exe
+C:\Users\Mateusz\Desktop\Zaliczenie\Zaliczenie\bin\Debug\Zaliczenie.pdb
+C:\Users\Mateusz\Desktop\Zaliczenie\Zaliczenie\obj\Debug\Zaliczenie.csproj.AssemblyReference.cache
+C:\Users\Mateusz\Desktop\Zaliczenie\Zaliczenie\obj\Debug\Zaliczenie.Properties.Resources.resources
+C:\Users\Mateusz\Desktop\Zaliczenie\Zaliczenie\obj\Debug\Zaliczenie.csproj.GenerateResource.cache
+C:\Users\Mateusz\Desktop\Zaliczenie\Zaliczenie\obj\Debug\Zaliczenie.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Desktop\Zaliczenie\Zaliczenie\obj\Debug\Zaliczenie.exe
+C:\Users\Mateusz\Desktop\Zaliczenie\Zaliczenie\obj\Debug\Zaliczenie.pdb
+C:\Users\Mateusz\Desktop\Zaliczenie\Zaliczenie\obj\Debug\Zaliczenie.Menu.resources
+C:\Users\Mateusz\Desktop\Zaliczenie\Zaliczenie\obj\Debug\Zaliczenie.Gra.resources
+C:\Users\Mateusz\Desktop\Zaliczenie\Zaliczenie\obj\Debug\Zaliczenie.GraStatystyki.resources
+C:\Users\Mateusz\Desktop\Zaliczenie\Zaliczenie\obj\Debug\Zaliczenie.LogInForm.resources
+C:\Users\Mateusz\Desktop\Zaliczenie — kopia\Zaliczenie\bin\Debug\Zaliczenie.exe.config
+C:\Users\Mateusz\Desktop\Zaliczenie — kopia\Zaliczenie\bin\Debug\Zaliczenie.exe
+C:\Users\Mateusz\Desktop\Zaliczenie — kopia\Zaliczenie\bin\Debug\Zaliczenie.pdb
+C:\Users\Mateusz\Desktop\Zaliczenie — kopia\Zaliczenie\obj\Debug\Zaliczenie.csproj.AssemblyReference.cache
+C:\Users\Mateusz\Desktop\Zaliczenie — kopia\Zaliczenie\obj\Debug\Zaliczenie.Gra.resources
+C:\Users\Mateusz\Desktop\Zaliczenie — kopia\Zaliczenie\obj\Debug\Zaliczenie.GraStatystyki.resources
+C:\Users\Mateusz\Desktop\Zaliczenie — kopia\Zaliczenie\obj\Debug\Zaliczenie.LogInForm.resources
+C:\Users\Mateusz\Desktop\Zaliczenie — kopia\Zaliczenie\obj\Debug\Zaliczenie.Menu.resources
+C:\Users\Mateusz\Desktop\Zaliczenie — kopia\Zaliczenie\obj\Debug\Zaliczenie.Properties.Resources.resources
+C:\Users\Mateusz\Desktop\Zaliczenie — kopia\Zaliczenie\obj\Debug\Zaliczenie.csproj.GenerateResource.cache
+C:\Users\Mateusz\Desktop\Zaliczenie — kopia\Zaliczenie\obj\Debug\Zaliczenie.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Desktop\Zaliczenie — kopia\Zaliczenie\obj\Debug\Zaliczenie.exe
+C:\Users\Mateusz\Desktop\Zaliczenie — kopia\Zaliczenie\obj\Debug\Zaliczenie.pdb
+C:\Users\Mateusz\Desktop\Zaliczenie — kopia — kopia\Zaliczenie\bin\Debug\Zaliczenie.exe.config
+C:\Users\Mateusz\Desktop\Zaliczenie — kopia — kopia\Zaliczenie\bin\Debug\Zaliczenie.exe
+C:\Users\Mateusz\Desktop\Zaliczenie — kopia — kopia\Zaliczenie\bin\Debug\Zaliczenie.pdb
+C:\Users\Mateusz\Desktop\Zaliczenie — kopia — kopia\Zaliczenie\obj\Debug\Zaliczenie.csproj.AssemblyReference.cache
+C:\Users\Mateusz\Desktop\Zaliczenie — kopia — kopia\Zaliczenie\obj\Debug\Zaliczenie.Gra.resources
+C:\Users\Mateusz\Desktop\Zaliczenie — kopia — kopia\Zaliczenie\obj\Debug\Zaliczenie.GraStatystyki.resources
+C:\Users\Mateusz\Desktop\Zaliczenie — kopia — kopia\Zaliczenie\obj\Debug\Zaliczenie.LogInForm.resources
+C:\Users\Mateusz\Desktop\Zaliczenie — kopia — kopia\Zaliczenie\obj\Debug\Zaliczenie.Menu.resources
+C:\Users\Mateusz\Desktop\Zaliczenie — kopia — kopia\Zaliczenie\obj\Debug\Zaliczenie.Properties.Resources.resources
+C:\Users\Mateusz\Desktop\Zaliczenie — kopia — kopia\Zaliczenie\obj\Debug\Zaliczenie.csproj.GenerateResource.cache
+C:\Users\Mateusz\Desktop\Zaliczenie — kopia — kopia\Zaliczenie\obj\Debug\Zaliczenie.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Desktop\Zaliczenie — kopia — kopia\Zaliczenie\obj\Debug\Zaliczenie.exe
+C:\Users\Mateusz\Desktop\Zaliczenie — kopia — kopia\Zaliczenie\obj\Debug\Zaliczenie.pdb
+C:\Users\Mateusz\Desktop\Zaliczenie — kopia — kopiaww\Zaliczenie\bin\Debug\Zaliczenie.exe.config
+C:\Users\Mateusz\Desktop\Zaliczenie — kopia — kopiaww\Zaliczenie\bin\Debug\Zaliczenie.exe
+C:\Users\Mateusz\Desktop\Zaliczenie — kopia — kopiaww\Zaliczenie\bin\Debug\Zaliczenie.pdb
+C:\Users\Mateusz\Desktop\Zaliczenie — kopia — kopiaww\Zaliczenie\obj\Debug\Zaliczenie.csproj.AssemblyReference.cache
+C:\Users\Mateusz\Desktop\Zaliczenie — kopia — kopiaww\Zaliczenie\obj\Debug\Zaliczenie.Gra.resources
+C:\Users\Mateusz\Desktop\Zaliczenie — kopia — kopiaww\Zaliczenie\obj\Debug\Zaliczenie.GraStatystyki.resources
+C:\Users\Mateusz\Desktop\Zaliczenie — kopia — kopiaww\Zaliczenie\obj\Debug\Zaliczenie.LogInForm.resources
+C:\Users\Mateusz\Desktop\Zaliczenie — kopia — kopiaww\Zaliczenie\obj\Debug\Zaliczenie.Menu.resources
+C:\Users\Mateusz\Desktop\Zaliczenie — kopia — kopiaww\Zaliczenie\obj\Debug\Zaliczenie.Properties.Resources.resources
+C:\Users\Mateusz\Desktop\Zaliczenie — kopia — kopiaww\Zaliczenie\obj\Debug\Zaliczenie.csproj.GenerateResource.cache
+C:\Users\Mateusz\Desktop\Zaliczenie — kopia — kopiaww\Zaliczenie\obj\Debug\Zaliczenie.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Desktop\Zaliczenie — kopia — kopiaww\Zaliczenie\obj\Debug\Zaliczenie.exe
+C:\Users\Mateusz\Desktop\Zaliczenie — kopia — kopiaww\Zaliczenie\obj\Debug\Zaliczenie.pdb
+C:\Users\Mateusz\Desktop\Zaliczenie — kopia — kopiaww — kopia\Zaliczenie\bin\Debug\Zaliczenie.exe.config
+C:\Users\Mateusz\Desktop\Zaliczenie — kopia — kopiaww — kopia\Zaliczenie\bin\Debug\Zaliczenie.exe
+C:\Users\Mateusz\Desktop\Zaliczenie — kopia — kopiaww — kopia\Zaliczenie\bin\Debug\Zaliczenie.pdb
+C:\Users\Mateusz\Desktop\Zaliczenie — kopia — kopiaww — kopia\Zaliczenie\obj\Debug\Zaliczenie.csproj.AssemblyReference.cache
+C:\Users\Mateusz\Desktop\Zaliczenie — kopia — kopiaww — kopia\Zaliczenie\obj\Debug\Zaliczenie.Gra.resources
+C:\Users\Mateusz\Desktop\Zaliczenie — kopia — kopiaww — kopia\Zaliczenie\obj\Debug\Zaliczenie.GraStatystyki.resources
+C:\Users\Mateusz\Desktop\Zaliczenie — kopia — kopiaww — kopia\Zaliczenie\obj\Debug\Zaliczenie.LogInForm.resources
+C:\Users\Mateusz\Desktop\Zaliczenie — kopia — kopiaww — kopia\Zaliczenie\obj\Debug\Zaliczenie.Menu.resources
+C:\Users\Mateusz\Desktop\Zaliczenie — kopia — kopiaww — kopia\Zaliczenie\obj\Debug\Zaliczenie.Properties.Resources.resources
+C:\Users\Mateusz\Desktop\Zaliczenie — kopia — kopiaww — kopia\Zaliczenie\obj\Debug\Zaliczenie.csproj.GenerateResource.cache
+C:\Users\Mateusz\Desktop\Zaliczenie — kopia — kopiaww — kopia\Zaliczenie\obj\Debug\Zaliczenie.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Desktop\Zaliczenie — kopia — kopiaww — kopia\Zaliczenie\obj\Debug\Zaliczenie.exe
+C:\Users\Mateusz\Desktop\Zaliczenie — kopia — kopiaww — kopia\Zaliczenie\obj\Debug\Zaliczenie.pdb
+C:\PROJECTS\Zaliczenie\Zaliczenie\bin\Debug\Zaliczenie.exe.config
+C:\PROJECTS\Zaliczenie\Zaliczenie\bin\Debug\Zaliczenie.exe
+C:\PROJECTS\Zaliczenie\Zaliczenie\bin\Debug\Zaliczenie.pdb
+C:\PROJECTS\Zaliczenie\Zaliczenie\obj\Debug\Zaliczenie.csproj.AssemblyReference.cache
+C:\PROJECTS\Zaliczenie\Zaliczenie\obj\Debug\Zaliczenie.Gra.resources
+C:\PROJECTS\Zaliczenie\Zaliczenie\obj\Debug\Zaliczenie.GraStatystyki.resources
+C:\PROJECTS\Zaliczenie\Zaliczenie\obj\Debug\Zaliczenie.LogInForm.resources
+C:\PROJECTS\Zaliczenie\Zaliczenie\obj\Debug\Zaliczenie.Menu.resources
+C:\PROJECTS\Zaliczenie\Zaliczenie\obj\Debug\Zaliczenie.Properties.Resources.resources
+C:\PROJECTS\Zaliczenie\Zaliczenie\obj\Debug\Zaliczenie.csproj.GenerateResource.cache
+C:\PROJECTS\Zaliczenie\Zaliczenie\obj\Debug\Zaliczenie.csproj.CoreCompileInputs.cache
+C:\PROJECTS\Zaliczenie\Zaliczenie\obj\Debug\Zaliczenie.exe
+C:\PROJECTS\Zaliczenie\Zaliczenie\obj\Debug\Zaliczenie.pdb

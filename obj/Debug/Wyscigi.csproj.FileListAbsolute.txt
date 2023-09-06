@@ -1,0 +1,13 @@
+C:\PROJECTS\Zaliczenie\Zaliczenie\bin\Debug\Zaliczenie.exe.config
+C:\PROJECTS\Zaliczenie\Zaliczenie\bin\Debug\Zaliczenie.exe
+C:\PROJECTS\Zaliczenie\Zaliczenie\bin\Debug\Zaliczenie.pdb
+C:\PROJECTS\Zaliczenie\Zaliczenie\obj\Debug\Wyscigi.csproj.AssemblyReference.cache
+C:\PROJECTS\Zaliczenie\Zaliczenie\obj\Debug\Wyscigi.Gra.resources
+C:\PROJECTS\Zaliczenie\Zaliczenie\obj\Debug\Wyscigi.GraStatystyki.resources
+C:\PROJECTS\Zaliczenie\Zaliczenie\obj\Debug\Wyscigi.LogInForm.resources
+C:\PROJECTS\Zaliczenie\Zaliczenie\obj\Debug\Wyscigi.Menu.resources
+C:\PROJECTS\Zaliczenie\Zaliczenie\obj\Debug\Zaliczenie.Properties.Resources.resources
+C:\PROJECTS\Zaliczenie\Zaliczenie\obj\Debug\Wyscigi.csproj.GenerateResource.cache
+C:\PROJECTS\Zaliczenie\Zaliczenie\obj\Debug\Wyscigi.csproj.CoreCompileInputs.cache
+C:\PROJECTS\Zaliczenie\Zaliczenie\obj\Debug\Zaliczenie.exe
+C:\PROJECTS\Zaliczenie\Zaliczenie\obj\Debug\Zaliczenie.pdb
